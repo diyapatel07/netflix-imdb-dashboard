@@ -53,8 +53,8 @@ This project presents an end-to-end analysis of Netflix titles merged with IMDb 
 ## 🎥 Dashboard Preview
 
 ### 📄 Page 1 – Netflix Overview 
-[Dashboard](assets/page1.png)
-[▶️ Watch MP4](assets/page1.mp4)
+![Dashboard](assets/page1.png)
+![▶️ Watch MP4](assets/page1.mp4)
 
 - Unique title count card  
 - Content release trend (Bar + Line combo)  
@@ -64,8 +64,8 @@ This project presents an end-to-end analysis of Netflix titles merged with IMDb 
 ---
 
 ### 📄 Page 2 – IMDb Ratings Analysis 
-[Dashboard](assets/page2.png)
-[▶️ Watch MP4](assets/page2.mp4)
+![Dashboard](assets/page2.png)
+![▶️ Watch MP4](assets/page2.mp4)
 
 - Average IMDb rating (Gauge)
 - Total votes (Multi-row card)
