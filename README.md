@@ -10,7 +10,6 @@ This project presents an end-to-end analysis of Netflix titles merged with IMDb 
 - Visualize content growth trends across years and types (Movies/TV Shows)
 - Analyze genre frequency and rating distributions
 - Build a professional, multi-page Power BI dashboard
-- Create a portfolio-ready visual walkthrough with MP4 demos
 
 ---
 
