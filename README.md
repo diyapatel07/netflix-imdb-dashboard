@@ -67,7 +67,7 @@ This project presents an end-to-end analysis of Netflix titles merged with IMDb 
 ## 📌 Key Insights
 
 - 🎥 Netflix's content production surged after 2015, especially for TV Shows  
-- 🧾 Drama and Documentary dominate the genre landscape  
+- 🧾 Drama and Comedy dominate the genre landscape  
 - ⭐ Highly-rated content often belongs to niche genres with fewer votes  
 - 📈 Some genres show stable performance across years, others fluctuate
 - 📉 Type-based filtering reveals interesting trends between Movies and TV
